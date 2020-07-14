@@ -9,6 +9,12 @@ Hi, I'm Joseph Chambers, a passionate self-taught web developer from Michigan.
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything [here](https://github.com/imcodingideas/imcodingideas/issues)
 
+**Find me online:**  
+
+[![Twitter: imcodingideas](https://img.shields.io/twitter/follow/imcodingideas?style=social)](https://twitter.com/imcodingideas)
+[![Linkedin: josephmchambers](https://img.shields.io/badge/-josephmchambers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephmchambers/)](https://www.linkedin.com/in/josephmchambers/)
+[![GitHub imcodingideas](https://img.shields.io/github/followers/imcodingideas?label=follow&style=social)](https://github.com/imcodingideas)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
